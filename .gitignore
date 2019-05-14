@@ -1,0 +1,5 @@
+.python-version
+*.swp
+__pycache__/
+
+node_modules/
